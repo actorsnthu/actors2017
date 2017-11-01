@@ -312,4 +312,78 @@ var settings = {
 
 	});
 
+
+		$(function(){
+		$('#a01_2').click(function(){
+			$('html,body').animate({scrollTop: $('#a01').offset().top},800);
+		});
+	});
+	
+		$(function(){
+		$('#a02_2').click(function(){
+			$('html,body').animate({scrollTop: $('#a02').offset().top},800);
+		});
+	});
+	
+		$(function(){
+		$('#a03_2').click(function(){
+			$('html,body').animate({scrollTop: $('#a03').offset().top},800);
+		});
+	});
+	
+		$(function(){
+		$('#a04_2').click(function(){
+			$('html,body').animate({scrollTop: $('#a04').offset().top},800);
+		});
+	});
+	
+		$(function(){
+		$('#a05_2').click(function(){
+			$('html,body').animate({scrollTop: $('#a05').offset().top},800);
+		});
+	});	
+	
+		$(function(){
+		$('#a06_2').click(function(){
+			$('html,body').animate({scrollTop: $('#a06').offset().top},800);
+		});
+	});	
+		$(function(){
+		$('#a01_3').click(function(){
+			$('html,body').animate({scrollTop: $('#a01').offset().top},800);
+		});
+	});
+	
+		$(function(){
+		$('#a02_3').click(function(){
+			$('html,body').animate({scrollTop: $('#a02').offset().top},800);
+		});
+	});
+	
+		$(function(){
+		$('#a03_3').click(function(){
+			$('html,body').animate({scrollTop: $('#a03').offset().top},800);
+		});
+	});
+	
+		$(function(){
+		$('#a04_3').click(function(){
+			$('html,body').animate({scrollTop: $('#a04').offset().top},800);
+		});
+	});
+	
+		$(function(){
+		$('#a05_3').click(function(){
+			$('html,body').animate({scrollTop: $('#a05').offset().top},800);
+		});
+	});	
+	
+		$(function(){
+		$('#a06_3').click(function(){
+			$('html,body').animate({scrollTop: $('#a06').offset().top},800);
+		});
+	});	
+
+
+
 })(jQuery);
